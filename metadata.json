@@ -1,0 +1,7 @@
+{
+  "name": "MulitiDash",
+  "description": "A modern AI dashboard that allows users to interact with multiple AI models including Google's Gemini Flash, DeepSeek, and a ChatGPT-4 endpoint. Users can seamlessly switch between models to compare their responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
